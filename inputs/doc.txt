@@ -1,0 +1,5 @@
+imagens geradas com Copilot.
+
+input:
+
+crie uma imagem de uma plataforma on-line que ensina programação e mostra os trabalhos para outras empresas conveniadas.
